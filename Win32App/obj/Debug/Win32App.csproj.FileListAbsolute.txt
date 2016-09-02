@@ -1,0 +1,9 @@
+c:\users\mchotu\documents\visual studio 2015\Projects\Win32App\Win32App\bin\Debug\Win32App.exe.config
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\bin\Debug\Win32App.exe
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\bin\Debug\Win32App.pdb
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\obj\Debug\Win32App.csprojResolveAssemblyReference.cache
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\obj\Debug\Win32App.Form1.resources
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\obj\Debug\Win32App.Properties.Resources.resources
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\obj\Debug\Win32App.csproj.GenerateResource.Cache
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\obj\Debug\Win32App.exe
+C:\Users\mchotu\Documents\Visual Studio 2015\Projects\Win32App\Win32App\obj\Debug\Win32App.pdb
